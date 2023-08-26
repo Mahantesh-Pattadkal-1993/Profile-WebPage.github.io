@@ -29,7 +29,7 @@ Questions:
 5. **Is it classification or regression?**
 
 
-It is used for classification as it provides information on the probabality of a positive event in a binary classification scenario.  
+    It’s a regression algorithm used for classification using a logistic classifier using a threshold. For Multi class we use a one vs rest mechanism over the same 
 
 
 6. **Is it high bias or high variance model?**
