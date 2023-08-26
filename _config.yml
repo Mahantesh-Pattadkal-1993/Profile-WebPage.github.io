@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Mahantesh Pattadkal"
+  avatar           : "Profile_pic_1.jpg"
+  bio              : "Data Scientist"
+  location         : "Berlin"
+  employer         : "KNIME"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "mpattadkal@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Mahantesh-Pattadkal"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mahantesh-pattadkal-1993"
   google_plus      :
   keybase          :
   instagram        :
