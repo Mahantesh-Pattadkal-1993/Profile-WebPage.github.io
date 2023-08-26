@@ -84,8 +84,8 @@ author:
   avatar           : "Profile_pic_1.jpg"
   bio              : "Data Scientist"
   location         : "Berlin"
-  employer         : "KNIME"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  employer         : 
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "mpattadkal@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Mahantesh-Pattadkal"
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
