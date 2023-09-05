@@ -61,6 +61,7 @@ Questions:
     Probability values are numbers between 0 and 1. When you add up the probabilities of all possible events, it always equals 1. You can use past data to make a guess about the chance of something happening in the future. For example, if you have 2 red chocolates and 4 blue chocolates in a box, the chance of picking a red one is about 0.33.
 
     Likelihood tells us how well our observations match a specific idea or pattern. For instance, if we think our data comes from a normal distribution, we can calculate likelihood for different guesses about its parameters (like average and spread). The values of average and spread that make the likelihood highest are the ones we'll use to describe our data's distribution.
+
 ---
 
 
