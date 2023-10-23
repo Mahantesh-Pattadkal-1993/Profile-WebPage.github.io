@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-📊 Data Scientist with 6 years of experience
-💼 Worked on business problems in Advertising, Banking, and Pharma domains
-🤖 Skilled in building AI models and explaining them using XAI techniques
-🌍 Currently working as a Data Scientist at KNIME GmBH, Germany
-🧠 Area of Interest: Natural Language Processing, Generative AI, Machine Learning, Deep Learning, and Responsible AI
+📊 Data Scientist with 6 years of experience.
+
+💼 Worked on business problems in Advertising, Banking, and Pharma domains.
+
+🤖 Skilled in building AI models and explaining them using XAI techniques.
+
+🌍 Currently working as a Data Scientist at KNIME GmBH, Germany.
+
+🧠 Area of Interest: Natural Language Processing, Generative AI, Machine Learning, Deep Learning, and Responsible AI.
 
